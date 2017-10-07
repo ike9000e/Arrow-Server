@@ -1,6 +1,6 @@
-= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
-	Arrow Server - HTTP Server to Shell Command Filtering
-= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+------------------------------------------------------------------------------------
+Arrow Server - HTTP Server to Shell Command Filtering
+------------------------------------------------------------------------------------
 
 	Configurable, non-interactive HTTP server that
 	executes shell commands in response to network requests.
